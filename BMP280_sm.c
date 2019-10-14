@@ -65,8 +65,8 @@
 * No license is granted by implication or otherwise under any patent or
 * patent rights of the copyright holder.
 **************************************************************************/
-#include "BMP280.h"
-#include "BMP280_drv.h"
+#include "BMP280_sm.h"
+#include "BMP280_sm_drv.h"
 bmp280_t *p_bmp280; /**< pointer to BMP280 */
 
 /*!
