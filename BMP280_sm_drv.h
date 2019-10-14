@@ -14,7 +14,7 @@
 #ifndef __BMP280_DRV_H
 #define __BMP280_DRV_H
 
-#include "stm32f4xx.h"
+#include "main.h"
 extern bmp280_t *p_bmp280;
 
 /**************************************************************/

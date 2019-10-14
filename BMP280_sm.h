@@ -73,7 +73,7 @@
 #define __BMP280_H
 
 #include <math.h>
-#include "stm32f4xx.h"
+#include "main.h"
 
 /*!
 * @brief The following definition uses for define the data types
